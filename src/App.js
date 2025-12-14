@@ -1,7 +1,9 @@
+import HomePage from './components/HomePage';
+
 function App() {
   return (
-    <div >
-     Hello my tube
+    <div>
+      <HomePage />
     </div>
   );
 }
