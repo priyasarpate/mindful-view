@@ -32,8 +32,8 @@ function HomePage() {
         {/* Logo Section */}
         <div className="logo-section">
           <h1 className="youtube-logo">
-            <span className="you-text">You</span>
-            <span className="tube-text">Tube</span>
+            <span className="you-text">Mindful</span>
+            <span className="tube-text">View</span>
           </h1>
           <p className="tagline">Your Digital Video Repository</p>
         </div>
